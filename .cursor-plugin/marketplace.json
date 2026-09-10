@@ -57,6 +57,11 @@
       "name": "implement-spec",
       "source": "./skills/implement-spec",
       "description": "Linear-driven implementation loop — take the next unassigned issue from a Linear project and drive it to Done: delegate the implementation, verify with a gate plus one blind e2e pass, quick non-blocking review, PR, merge, close in Linear with follow-ups, next. Serial, context-free between iterations, batched releases."
+    },
+    {
+      "name": "talk-prep",
+      "source": "./skills/talk-prep",
+      "description": "Prepare a talk that fits its time slot and lands one idea — red thread, 80 % time budget, intro/core/close split, less-is-more slides, objection handling, timestamped talk track."
     }
   ]
 }

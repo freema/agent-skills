@@ -148,6 +148,19 @@
       "license": "MIT",
       "keywords": ["linear", "implementation-loop", "orchestration", "agents", "backlog", "e2e", "release", "autonomous"],
       "category": "development"
+    },
+    {
+      "name": "talk-prep",
+      "source": "./skills/talk-prep",
+      "description": "Prepare a talk that fits its time slot and lands one idea — red thread, 80 % time budget, intro/core/close split, opening and close, less-is-more slides, objection handling, timestamped talk track.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Tomas Grasl"
+      },
+      "repository": "https://github.com/freema/ai-skills",
+      "license": "MIT",
+      "keywords": ["presentation", "public-speaking", "talk", "speaker-notes", "storytelling", "lightning-talk"],
+      "category": "productivity"
     }
   ]
 }
