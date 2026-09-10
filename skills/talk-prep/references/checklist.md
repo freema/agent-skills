@@ -16,6 +16,7 @@
 ## Slides
 
 - [ ] One idea per slide; ≤ 5 one-line bullets or one sentence + one picture.
+- [ ] No small type: body ≥ 28 px on a 1920×1080 stage. Had to shrink to fit? Cut text instead.
 - [ ] One typeface, ≤ 3 sizes, ≤ 3 colours, consistent alignment and spacing.
 - [ ] Every number has a source and a date on the speaker-notes side.
 - [ ] Memes: real templates, text in the audience's language, ≤ 3 per 5 minutes.

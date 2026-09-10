@@ -99,6 +99,10 @@ Word budgets that work: 3 min → ~360 words · 5 min → ~600 · 10 min → ~1 
 
 - You are the best visual aid. Slides support, they don't compete.
 - One visual aid at a time. Never read a slide aloud.
+- **Small type means too much text.** If you have to shrink the font to make
+  a slide fit, don't shrink — cut. Body text stays readable from the back row
+  (≥ 28 px on a 1920×1080 stage, nothing the audience must read under 22 px).
+  One sentence and one picture beats five bullets every time.
 - Minimize noise: one typeface, few sizes, few colours, aligned edges,
   consistent spacing. Photos over clip art (Unsplash is fine), tables only when
   a number matters and is highlighted, animation only when it shows change.
@@ -144,5 +148,6 @@ For a talk request, produce:
 - Filling 100 % of the slot. You will run over; everyone always does.
 - New information after the summary.
 - Reading bullets aloud; slides that are the script.
+- Shrinking the font to fit more on a slide. The fix is fewer words, not smaller ones.
 - Answering the objection you *wish* they had asked.
 - Jokes as hooks; memes with English text you cannot rewrite.
